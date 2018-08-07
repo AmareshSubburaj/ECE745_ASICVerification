@@ -1,1 +1,1 @@
-# ASICVerification
+# ECE745_ASICVerification
